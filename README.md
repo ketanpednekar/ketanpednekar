@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ketanpednekar
 - 👀 I’m interested in Climate Risk Modelling
-- 🌱 I’m currently learning Mario and Climada
+- 🌱 I’m currently learning Climada
 - 💞️ I’m looking to collaborate on Climate risk models
 - 📫 How to reach me send and email to info@ccartghg.com
 - 😄 Pronouns: He/Him
