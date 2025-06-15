@@ -2,7 +2,7 @@
 - 👀 I’m interested in Climate Risk Modelling
 - 🌱 I’m currently learning Climada
 - 💞️ I’m looking to collaborate on Climate risk models
-- 📫 How to reach me send and email to info@ccartghg.com
+- 📫 How to reach me send and email to support@ccartghg.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I sing!
 
